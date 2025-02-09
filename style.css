@@ -145,7 +145,22 @@ img {
 .design-box a{
 	padding: 10px;
 }
-.contact{}
+.contact h1{
+	text-align: center;
+	margin-top: 70px;
+}
+.contact p{
+	text-align: center;
+	padding-top: 15px;
+    padding-bottom: 30px;
+}
+.con_log{
+	display: flex;
+    justify-content: center;
+}
+.con_log img{
+	margin: 10px;
+}
 .footer{
 	background: black;
 }
