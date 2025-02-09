@@ -26,26 +26,6 @@ img {
 .clr {
 	clear: both;
 }
-@media (min-width:992px) and (max-width:1200px){
-
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-
-}
-
-
-@media (min-width:576px) and (max-width:767px){
-
-}
-
-
-@media (max-width: 575.98px) {
-
-}
-
-
-
 /* ------ This is headr-navsection section -------*/
 .background {
     background: url("images/hedar.png")  no-repeat center;
@@ -164,4 +144,26 @@ img {
 }
 .design-box a{
 	padding: 10px;
+}
+.contact{}
+.footer{
+	background: black;
+}
+.footer p{
+	color: #ffffff;
+    text-align: center;
+	height: 30px;
+	padding-top: 15px;
+}
+@media (min-width:992px) and (max-width:1200px){
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (min-width:576px) and (max-width:767px){
+
+}
+@media (max-width: 575.98px) {
+
 }
