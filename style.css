@@ -46,11 +46,20 @@ img {
 }
 .header h1{
 	    padding-top: 60px;
-	    margin: 0px 0px 0px 50px;
+	    margin: 0px 0px 15px 50px;
 }
 .header p{
-	padding-top: 10px;
+	margin: 5px 0px 0px 50px;
+}
+.header img{
 	margin: 0px 0px 0px 50px;
+}
+.namebottomlog{
+	display: flex;
+    justify-content: center;
+}
+.namebottomlog img{
+	margin-bottom: 15px;
 }
 /* ------ This is About section -------*/
 .background-about{
