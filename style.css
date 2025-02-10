@@ -42,16 +42,23 @@ img {
 /* ------ This is headr section -------*/
 .header{
 	background-color: #ffffff;
-	margin-top: 10px;
 }
-.header h1{
-	    padding-top: 60px;
-	    margin: 0px 0px 15px 50px;
+.left_logo{
+	display: flex;
+    justify-content: right;
 }
-.header p{
-	margin: 5px 0px 0px 50px;
+.left_logo img{
+	margin: 25px 25px 0px 0px;
 }
-.header img{
+.address h1{
+	margin: 0px 0px 15px 50px;
+    font-size: 50px;
+}
+.address p{
+	margin: 5px 0px 50px 50px;
+    font-size: 23px;
+}
+.address img{
 	margin: 0px 0px 0px 50px;
 }
 .namebottomlog{
