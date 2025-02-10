@@ -49,7 +49,7 @@ img {
 }
 /* ------ This is headr section -------*/
 .header{
-	background-color: #ffffff;
+	background-color: #f9f9f9;
 }
 .left_logo{
 	display: flex;
@@ -84,7 +84,6 @@ img {
 }
 .about{
 	text-align: center;
-    margin-top: 10px;
 }
 .about h1{
 	padding-top: 70px;
@@ -224,6 +223,12 @@ img {
     height: 25px;
     padding-top: 10px;
 	font-size: 18px;
+}
+.footer p a{
+	color: #ffffff;
+}
+.footer p a:hover{
+	color: blue;
 }
 @media (min-width:992px) and (max-width:1200px){
 
