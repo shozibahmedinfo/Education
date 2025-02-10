@@ -98,12 +98,11 @@ img {
 }
 /* ------ This is portfolio section -------*/
 .portfolio{
-	background-color: #ffffff;
-	text-align: center;
-    margin-top: 10px;
+	background-color: #f9f9f9;
+    text-align: center;
+    padding-top: 50px;
 }
 .portfolio h1{
-	margin-top: 70px;
     font-size: 35px;
 }
 .portfolio p{
@@ -149,7 +148,7 @@ img {
 }
 /* ------ This is stetionary section -------*/
 .stetionary{
-    margin-top: 10px;
+	background: #f9f9f9;
 }
 .stetionary h1{
 	text-align: center;
@@ -160,33 +159,37 @@ img {
 }
 /* ------ This is newlogo section -------*/
 .newlogo{
-	margin-top: 10px;
+	background: #f9f9f9;
 }
 .design{
 	text-align: center;
 }
 .design h1{
 	font-size: 35px;
+	padding-top: 40px;
 }
 .p-text{
 	margin-top: 50px;
 }
-.p-text p{
+.p-text p{    
 	font-size: 18px;
+    margin: 0px 0px 0px 30px;
 }
 .designbox{
 	display: flex;
     justify-content: center;
     margin-top: 15px;
-    /*margin-bottom: 50px;*/
 }
 .design-box a{
 	padding: 10px;
 }
+.contact{
+	background: #f9f9f9;
+}
 .contact h1{
 	text-align: center;
-    margin-top: 70px;
     font-size: 35px;
+    padding-top: 70px;
 }
 .contact p{
 	text-align: center;
@@ -203,8 +206,8 @@ img {
 }
 .social_log{
 	display: flex;
-	justify-content: center;
-	margin-bottom: 70px;
+    justify-content: center;
+    padding-bottom: 70px;
 }
 .social h4{
 	text-align: center;
