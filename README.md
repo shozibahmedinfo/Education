@@ -1,2 +1,2 @@
-Static Graphics Designer portfolio<br>
+Static Graphics Designer Portfolio<br>
 #HTML #CSS #JavaScript
